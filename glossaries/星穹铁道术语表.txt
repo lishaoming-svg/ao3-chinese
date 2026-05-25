@@ -1,6 +1,6 @@
-版本号:1.0.2
+版本号:1.0.3
 维护者:空中飘着的九十度
-更新时间:2026-05-25-23:23
+更新时间:2026-05-26
 通用词条
 Worldbearing：	负世
 Aedes Elysiae：	哀丽秘榭
@@ -364,3 +364,177 @@ Dr.レイシオ：	真理医生
 ヘルタ：	黑塔
 オンパロス：	翁法罗斯
 カイザー：	凯撒
+Flame Reaver:盗火行者 
+kaslana:卡斯兰娜 
+マダム ヘルタ:黑塔女士 
+エーグル:艾格勒 
+トリビー:缇宝 
+Castorice:遐蝶 
+ヒアンシー:赛飞儿 
+キャストリス:遐蝶 
+ケリュドラ:刻律德菈 
+アグライア:阿格莱雅 
+ファイノン:PhiLia 
+ライコス:来古士 
+マネーウォーズ:货币战争 
+ヘルタ:黑塔 
+マダム・ヘルタ:黑塔女士 
+異相エーグル:异相仲裁 
+キュレネ:昔涟 
+オンパロス:翁法罗斯 
+デミウルゴスは:德谬歌 
+Wardance:演武 
+Amphorues:翁法罗斯 
+Cocolia:可可利亚 
+Hook:虎克 
+Flame-Chase Journey:逐火之旅 
+Before Sun and Moon:《日月前事》 
+screwy:螺丝咕姆 
+Hyccine:风堇 
+Phainon:白厄 
+Cyrene:昔涟 
+Yae:八重 
+Yae Sakura:八重樱 
+Destruction:毁灭 
+Zulo:诛罗 
+Phantylia:幻胧 
+Arch-Forger:铸王 
+Asat Pramad:归寂 
+elation:欢愉 
+erudition:智识 
+phantilia:幻胧 
+phantylia:幻胧 
+archforger:铸王 
+luxbane:光逝 
+asat pramad :归寂 
+celenova:星啸 
+zephyro:焚风 
+Fischl:菲谢尔 
+genshin impact:原神 
+genshin:原神 
+emanators:令使们 
+emanator:令使 
+sparkle:花火 
+aeons:星神们 
+teyvat:提瓦特 
+Nod Krai:挪德卡莱 
+Madam:女士 
+cipher:赛飞儿 
+Ica:伊卡 
+Amphorean:翁法罗斯人 
+ipc:星际和平公司 
+dromas:大地兽 
+Anaxagoras:阿纳克萨哥拉斯 
+Kremnoan:悬锋 
+Amphorous:翁法罗斯 
+galaxy rangers:巡海游侠 
+galaxy ranger:巡海游侠 
+ten stonehearts:石心十人 
+aventurine:砂金 
+Lan:岚 
+Hunt:巡猎 
+Luocha:罗刹 
+anti-Erudition:反生命方程式 
+aeon:星神 
+Fu Xuan:符玄 
+lord ravager:绝灭大君 
+Robin:知更鸟 
+Xianzhou Alliance:仙舟联盟 
+Mydei:万敌 
+Tribbie:缇宝 
+Anaxa:那刻夏 
+Aglaea:阿格莱雅 
+Jing Yuan:景元 
+Seele:希儿 
+Bronya:布洛妮娅 
+screwllum:螺丝咕姆 
+genius society:天才俱乐部 
+Duke inferno:冥火大公 
+Ampho:翁星 
+NieR automata:尼尔:机械纪元 
+Cerydra:刻律德菈 
+Hysilens:海瑟音 
+Kolosten:克洛斯滕 
+Hyacine:风堇 
+love:爱 
+flame chasers:逐火者 
+Elysium Everlasting:永世乐土 
+Gallagher:加拉赫 
+HI3:崩坏3 
+flame chase journey:逐火之旅 
+smolrene:昔涟 
+Trailblaze:开拓 
+Evernights:长月夜 
+Lycurgus:吕枯尔戈斯 
+irontomb:铁墓 
+Yaoshi:药师 
+amophoreus:翁法罗斯 
+Da Wei:大伟 
+As I’ve Written:《如我所书》 
+loop:轮回 
+Zandar:赞达尔 
+cyrenes:昔涟 
+Trailblazer:开拓者 
+amphoreous:翁法罗斯 
+Acheron:黄泉 
+as it is written:《如我所书》 
+crysos heirs:无漏净子 
+Khaslana:卡厄斯兰娜 
+elysia:爱莉希雅 
+HSR:崩坏星穹铁道 
+Mavuika:玛薇卡 
+Firefly:流萤 
+Ceryda:刻律德菈 
+Hysliens:海瑟音 
+Herta-Tomb:铁墓黑塔 
+pull-able:可抽取的 
+amphoreus:翁法罗斯 
+Demiurge:德谬歌 
+phainon:白厄 
+memosnatchers:窃忆者 
+March:三月 
+Evernight:长月夜 
+memoria:忆质 
+lord ravagers:绝灭大君们 
+penacony:匹诺康尼 
+emphoreus:翁法罗斯 
+Himeko:姬子 
+Welt:瓦尔特 
+Herta:黑塔 
+cyrene:昔涟 
+Traiblazer:开拓者 
+Mem:迷迷 
+Shaoji:烧鸡 
+Fuli:浮黎 
+amber eras:琥珀纪 
+All I've Written book:《如我所书》 
+Dr. Ratio:拉帝奥医生 
+chrysos heirs:黄金裔 
+As I Have Written..:《如我所书》 
+Ciphers:赛飞儿 
+Lygus:来古士 
+remembrance:记忆 
+Annihilation Gang:泯灭帮 
+Constance:康士坦丝 
+Patrevia:帕特雷维尼齐亚 
+Luofu:罗浮 
+Bailu:白露 
+Feixiao:飞霄 
+Yukong:驭空 
+stellaron hunter:星核猎手 
+durandal:幽兰黛尔 
+kiana:琪亚娜 
+astral express:星穹列车 
+Nanook:纳努克 
+Elio:艾利欧 
+finality:终末 
+Nous:博识尊 
+stellaron:星核 
+akivili:阿基维利 
+blade:刃 
+jarilo:雅利洛 
+gepard:杰帕德 
+caelus:穹 
+stelle:星 
+kafka:卡芙卡 
+As I've written:《如我所书》 
