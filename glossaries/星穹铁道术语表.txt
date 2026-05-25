@@ -2,177 +2,368 @@
 维护者:空中飘着的九十度
 更新时间:2026-05-25
 通用词条
-Flame Reaver:盗火行者 
-kaslana:卡斯兰娜 
-マダム ヘルタ:黑塔女士 
-エーグル:艾格勒 
-トリビー:缇宝 
-Castorice:遐蝶 
-ヒアンシー:赛飞儿 
-キャストリス:遐蝶 
-ケリュドラ:刻律德菈 
-アグライア:阿格莱雅 
-ファイノン:PhiLia 
-ライコス:来古士 
-マネーウォーズ:货币战争 
-ヘルタ:黑塔 
-マダム・ヘルタ:黑塔女士 
-異相エーグル:异相仲裁 
-キュレネ:昔涟 
-オンパロス:翁法罗斯 
-デミウルゴスは:德谬歌 
-Wardance:演武 
-Amphorues:翁法罗斯 
-Cocolia:可可利亚 
-Hook:虎克 
-Flame-Chase Journey:逐火之旅 
-Before Sun and Moon:《日月前事》 
-screwy:螺丝咕姆 
-Hyccine:风堇 
-Phainon:白厄 
-Cyrene:昔涟 
-Yae:八重 
-Yae Sakura:八重樱 
-Destruction:毁灭 
-Zulo:诛罗 
-Phantylia:幻胧 
-Arch-Forger:铸王 
-Asat Pramad:归寂 
-elation:欢愉 
-erudition:智识 
-phantilia:幻胧 
-phantylia:幻胧 
-archforger:铸王 
-luxbane:光逝 
-asat pramad :归寂 
-celenova:星啸 
-zephyro:焚风 
-Fischl:菲谢尔 
-genshin impact:原神 
-genshin:原神 
-emanators:令使们 
-emanator:令使 
-sparkle:花火 
-aeons:星神们 
-teyvat:提瓦特 
-Nod Krai:挪德卡莱 
-Madam:女士 
-cipher:赛飞儿 
-Ica:伊卡 
-Amphorean:翁法罗斯人 
-ipc:星际和平公司 
-dromas:大地兽 
-Anaxagoras:阿纳克萨哥拉斯 
-Kremnoan:悬锋 
-Amphorous:翁法罗斯 
-galaxy rangers:巡海游侠 
-galaxy ranger:巡海游侠 
-ten stonehearts:石心十人 
-aventurine:砂金 
-Lan:岚 
-Hunt:巡猎 
-Luocha:罗刹 
-anti-Erudition:反生命方程式 
-aeon:星神 
-Fu Xuan:符玄 
-lord ravager:绝灭大君 
-Robin:知更鸟 
-Xianzhou Alliance:仙舟联盟 
-Mydei:万敌 
-Tribbie:缇宝 
-Anaxa:那刻夏 
-Aglaea:阿格莱雅 
-Jing Yuan:景元 
-Seele:希儿 
-Bronya:布洛妮娅 
-screwllum:螺丝咕姆 
-genius society:天才俱乐部 
-Duke inferno:冥火大公 
-Ampho:翁星 
-NieR automata:尼尔:机械纪元 
-Cerydra:刻律德菈 
-Hysilens:海瑟音 
-Kolosten:克洛斯滕 
-Hyacine:风堇 
-love:爱 
-flame chasers:逐火者 
-Elysium Everlasting:永世乐土 
-Gallagher:加拉赫 
-HI3:崩坏3 
-flame chase journey:逐火之旅 
-smolrene:昔涟 
-Trailblaze:开拓 
-Evernights:长月夜 
-Lycurgus:吕枯尔戈斯 
-irontomb:铁墓 
-Yaoshi:药师 
-amophoreus:翁法罗斯 
-Da Wei:大伟 
-As I’ve Written:《如我所书》 
-loop:轮回 
-Zandar:赞达尔 
-cyrenes:昔涟 
-Trailblazer:开拓者 
-amphoreous:翁法罗斯 
-Acheron:黄泉 
-as it is written:《如我所书》 
-crysos heirs:无漏净子 
-Khaslana:卡厄斯兰娜 
-elysia:爱莉希雅 
-HSR:崩坏星穹铁道 
-Mavuika:玛薇卡 
-Firefly:流萤 
-Ceryda:刻律德菈 
-Hysliens:海瑟音 
-Herta-Tomb:铁墓黑塔 
-pull-able:可抽取的 
-amphoreus:翁法罗斯 
-Demiurge:德谬歌 
-phainon:白厄 
-memosnatchers:窃忆者 
-March:三月 
-Evernight:长月夜 
-memoria:忆质 
-lord ravagers:绝灭大君们 
-penacony:匹诺康尼 
-emphoreus:翁法罗斯 
-Himeko:姬子 
-Welt:瓦尔特 
-Herta:黑塔 
-cyrene:昔涟 
-Traiblazer:开拓者 
-Mem:迷迷 
-Shaoji:烧鸡 
-Fuli:浮黎 
-amber eras:琥珀纪 
-All I've Written book:《如我所书》 
-Dr. Ratio:拉帝奥医生 
-chrysos heirs:黄金裔 
-As I Have Written..:《如我所书》 
-Ciphers:赛飞儿 
-Lygus:来古士 
-remembrance:记忆 
-Annihilation Gang:泯灭帮 
-Constance:康士坦丝 
-Patrevia:帕特雷维尼齐亚 
-Luofu:罗浮 
-Bailu:白露 
-Feixiao:飞霄 
-Yukong:驭空 
-stellaron hunter:星核猎手 
-durandal:幽兰黛尔 
-kiana:琪亚娜 
-astral express:星穹列车 
-Nanook:纳努克 
-Elio:艾利欧 
-finality:终末 
-Nous:博识尊 
-stellaron:星核 
-akivili:阿基维利 
-blade:刃 
-jarilo:雅利洛 
-gepard:杰帕德 
-caelus:穹 
-stelle:星 
-kafka:卡芙卡 
-As I've written:《如我所书》 
+Worldbearing	负世
+Aedes Elysiae	哀丽秘榭
+Khaslana	卡厄斯兰那
+High-Cloud Quintet	云上五骁
+Destiny's Slave	命运的奴隶
+Stellaron Hunters	星核猎手
+Yingxing 	应星
+Daughter of the River of Souls	冥河的女儿
+Maiden of War	督战圣女
+Hand of Shadow	灰黯之手
+Aidonia	哀地里亚
+Intelligentsia Guild 	博识学会
+Veritas	维里塔斯
+リュクルゴス	吕枯耳戈斯
+ライコス	来古士
+Lycurgus	吕枯耳戈斯
+Janusopolis	雅努萨波利斯
+Lygus	来古士
+Oak Family	橡木家系
+Ruan Mei	阮梅
+Robin	知更鸟
+Rappa	乱破
+Moze	貊泽
+Lingsha	灵砂
+Luocha	罗刹
+Jiaoqiu	椒丘
+Jing Yuan	景元
+Styxia	斯提克西亚
+Helektra	海列屈拉
+Twilight Courtyard	昏光庭院
+Flame-Chase	逐火
+Ika	小伊卡
+Hyacinthia	雅辛忒丝
+Hysilens	海瑟音
+Guinaifen	桂乃芬
+Gallagher	加拉赫
+Fu Xuan	符玄
+Feixiao	飞霄
+Fugue	忘归人
+Firefly	流萤
+Avgin	埃维金
+Jade	翡翠
+Strategic Investment Department	战略投资部
+IPC	星际和平公司
+Ten Stonehearts	石心十人
+Kakavasha	卡卡瓦夏
+Idrila	伊德莉拉
+Knights of Beauty	纯美骑士团
+Dressmaster of Okhema	奥赫玛的改衣师
+Coreflame 	火种
+Goldweaver	金织
+As I've Written	如我所书
+The Grove of Epiphany	神悟树庭
+Anaxagoras,	阿纳克萨戈拉斯
+Emanator	令使
+Galaxy Ranger	巡海游侠
+Self-Annihilator	自灭者
+Raiden Bosenmori Mei	雷電忘川守芽衣
+Evernight	长夜月
+Ratio	拉帝奥
+Dr. Ratio	真理医生
+Imbibitor Lunae	饮月君
+Cyrene	昔涟
+Boothill	波缇欧
+Blade	刃
+Black Swan	黑天鹅
+Aventurine	砂金
+Argenti	银枝
+Acheron	黄泉
+Ever-Flame Mansion	永火官邸
+Constance	康斯坦丝
+The Dahlia	大丽花
+Starcrusher Swarm King	碎星王虫
+Warp Trotter	次元扑满
+Arlan	阿兰
+Asta	艾丝妲
+Herta	黑塔
+Silver Wolf 	银狼
+Kafka	卡夫卡
+Welt	瓦尔特
+Himeko	姬子
+Svarog	史瓦罗
+Cocolia	可可利亚
+Belobog	贝洛伯格
+Pela	佩拉
+Serval	希露瓦
+Clara	克拉拉
+Lynx	玲可
+Seele	希儿
+Bronya	布洛妮娅
+March 7th	三月七
+Erudition	智识
+Abundance	丰饶
+Harmony	同谐
+Nihility 	虚无
+Preservation	存护
+The Hunt 	巡猎
+Destruction	毁灭
+Path	命途
+Astral Express	星穹列车
+Edo Star	江户星
+Penacony	匹诺康尼
+the Xianzhou Luofu	仙舟「罗浮」
+Herta Space Station	黑塔空间站
+Eurypon	欧利庞
+alpha	alpha
+omega	omega
+Cifera	赛飞儿
+Mydeicae 	敌穹
+Phaicae	厄穹
+Amphoreus	翁法罗斯
+ Anaxa	那刻夏
+Jarilo-VI	雅利洛六号
+Caelus	穹
+Gorgo	歌耳戈
+Mydeimos	迈德漠斯
+Sampo	桑博
+Gepard	杰帕德
+Sparkle	花火
+Lumine	荧
+Aether	空
+Jingliu	镜流
+Okhema	奥赫玛
+Mydei	万敌
+The Deliverer	救世主
+Kremnos	悬锋
+Sunday	星期日
+Cerydra	刻律德拉
+Chrysos Heirs	黄金裔
+Aglaea	阿格莱雅
+Dang Heng	丹恒
+Hyacine	风堇
+Trianne	缇安
+Trinnon	缇宁
+Tribbie	缇宝
+Castorice	遐蝶
+River Styx	冥河
+deliverer	救世主
+Phainon	白厄
+ヘレクトラ	海列屈拉
+スティコシア	斯缇科西亚
+カスライナ	卡厄斯兰那
+世負い	负世
+ファイノン	白厄
+永火官邸	永火官邸
+ダリア	大丽花
+葬儀客	葬仪知宾
+天外聖歌隊	天外合唱班
+ミラーホルダー	揽镜人
+弔伶人	悲悼伶人
+アナイアレイトギャング	泯灭帮
+ナナシビト	无名客
+エナ	太一
+ミュトゥス	迷思
+アッハ	阿哈
+宇内通鑑	寰宇通鉴
+ウロボロス	奥博洛斯
+グレートアトラクターの基盤	巨引源基盘
+天彗のスターウォール	天彗星墙
+クリフォト	克里珀
+シペ	希佩
+ヌース	博识尊
+ナヌーク	纳努克
+ペガーナ	裴伽纳
+星空の寓話集	有关星空的寓言集
+アキヴィリ	阿基维利
+フェルちゃん	飞儿
+詭術	诡计
+セファリア	赛法利娅
+ドロス	多洛斯
+サフェル	赛飞儿
+エリュシオン	哀丽秘榭
+イカルン	小伊卡
+ヒアシンシア	雅辛忒丝
+昏光の庭	昏光庭院
+アナクサゴラス	阿那克萨戈拉斯
+神悟の樹庭	神悟树庭
+アナイクス	那刻夏
+ピュエロス	浴池
+蝶	キャス
+キャスたん	蝶宝
+キメラ	奇美拉
+督戦の聖女	督战圣女
+アミュネッタ	阿蒙内特
+ステュクス	冥河
+キャストリス	遐蝶
+ペウケスタス	朴塞塔
+プトレマイオス	托勒密
+レオンナトス	莱昂
+ペルディッカス	帕狄卡斯
+ヘファイスティオン	赫菲斯辛
+クルティオス	克吕提俄斯
+エネウーヌス	厄涅俄努斯
+エイジリア	哀地里亚
+ラードーン	拉冬
+ゴルゴ―大図書館	歌尔巴尼帕尔图书馆
+オーリパン	欧利庞
+ステュクス	冥海
+メデイモス	迈德漠斯
+モーディス	万敌
+キャスちゃん	小蝶
+ファイちゃん	小白
+ヒアンシー	风堇
+ヒアンシーちゃん	小风堇
+ケリュドラ	刻律德菈
+セイレンス	海瑟音
+トリノン	缇宁
+百界門	百界门
+トリアン	缇安
+暗黒の潮	黑潮
+黄金の血	黄金血
+トリスビアス	缇里西庇俄丝
+門と道	门径
+トリビー	缇宝
+ラフトラ	衣匠
+喪失	失却
+火追い	逐火
+ラプティス	改衣师
+金織	金织
+アグライア	阿格莱雅
+巨大な恐竜鳥のプリンタルト	巨恐鸟布丁蛋挞
+朝露の館	朝露公馆
+オーク家	橡木家系
+サンデー	星期日
+シノビ・マキモノ	忍•法帖
+繚乱・忍符	缭乱•忍符
+シノビ・マントラ	忍•真言
+巡海レンジャー	巡海游侠
+ブートヒル	波提欧
+仮面の愚者	假面愚者
+最高の一日	在最美丽的一天
+傷つく誰かの心を守ることができたなら	使一颗心免于哀伤
+記憶域	忆域
+調和	同谐
+調和セレモニー	谐乐大典
+天環族	天环族
+ロビン	知更鸟
+スラーダ	苏乐达
+ハウンド家	猎犬家系
+ギャラガー	加拉赫
+ホテル・レバリー	白日梦酒店
+ミーシャ 	米沙
+焼却人	焚化工
+メモスナッチャー	窃忆者
+メモキーパー	忆者
+ガーデン・オブ・リコレクション	流光忆庭
+ブラックスワン	黑天鹅
+マルガリータ	玛格丽特
+第一真理大学採用委員会	第一真理大学录取委员会
+ロンド	荣德
+真理の医者	真理医生
+ベリタス	维里塔斯
+博識学会	博识学会
+Dr.レイシオ	真理医生
+レイシオ	拉帝奥
+イドリラ	伊德莉拉
+純美の騎士団	纯美骑士团
+アルジェンティ	银枝
+琥珀の王	琥珀王
+ポーンショップヒスイ	慈玉典押
+銀鎖星	银链星
+バスヴィア	巴斯维亚
+カロ	荷露
+琥珀紀	琥珀纪
+貸付の翡翠	典贷翡翠
+オパール	欧泊
+ピアポイント	庇尔波因特
+エヴィキン	埃维金
+ジェイド	翡翠
+イイマニカ	伊伊玛尼喀
+タイズルス	塔伊兹育罗斯
+エイジハゾ	艾吉哈佐
+ツガンニヤ	茨冈尼亚
+エルヴィン	埃尔文
+博戯の砂金石	诡弈砂金
+スターピースカンパニー	星际和平公司
+十の石心	石心十人
+アベンチュリン	砂金
+トパーズ	托帕
+アスデナ	阿斯德纳
+グラモス	格拉默
+星核ハンター	星核猎手
+サム	萨姆
+ホタル	流萤
+ランドゥー	郎道
+ルカ	卢卡
+リンクス	玲可
+フック	虎克
+ナターシャ	娜塔莎
+サンポ	桑博
+スヴァローグ	史瓦罗
+ペラ	佩拉
+クラーラ	克拉拉
+セーバル	希露瓦
+ジェパード	杰帕德
+ゼーレ	希儿
+ブローニャ	布洛妮娅
+帰忘の流離人 	忘归人
+フォフォ	藿藿
+無眼将軍	闭目将军
+マダム・ヘルタ	黑塔女士
+天才クラブ	天才俱乐部
+ルアン・メェイ	阮梅
+アーラン 	阿兰
+アスター	艾丝妲
+ヴェルト	瓦尔特
+三月なのか	三月七
+ピノコニー	匹诺康尼
+万界の癌	万界之癌
+ベロブルグ	贝洛伯格
+ヤリーロ-Ⅵ	雅利洛六号
+クラーサ	克拉索
+ザクロジュース	石榴汁
+クレムノス	悬锋
+隠匿の刻	幕匿时
+離愁の刻	离愁时
+践行の刻	践行时
+明晰の刻	明晰时
+門の刻	门扉时
+機縁の月	机缘月
+飛翔する幣	翻飞之币
+ザグレウス	扎格列斯
+慰霊の月	哀悼月
+暗澹たる手	灰黯之手
+タナトス	塞纳托斯
+紛争の月	纷争月
+ニカドリー	尼卡多利
+天罰の矛	天谴之矛
+拾綫の月	拾线月
+収穫の月	收获月
+黄金の繭	黄金之茧
+モネータ	墨涅塔
+分裂する枝	裂分之枝
+サーシス	瑟希斯
+自由の月	自由月
+万象の座	全世之座
+黎明のミハニ	黎明机器
+昼長の月	长昼月
+晨昏の目	晨昏之眼
+満たされた杯	满溢之杯
+ファジェイナ	法吉娜
+歓喜の月	欢喜月
+ジョーリア	吉奥里亚
+堅磐の脊髄	磐岩之脊
+耕耘月	栽培の月
+永夜の帳	永夜之帷
+長夜の月	长夜月
+ケファレ	刻法勒
+オロニクス	欧洛尼斯
+エーグル	艾格勒
+タレンタム	塔兰顿
+公正の秤	公正之秤
+平衡の月	平衡月
+ヤーヌス	雅努斯
+万路の門	万径之门
+門関の月	门关月
+ミカース	弥卡斯
+オクへイマ	奥赫玛
+ヤヌサポリス	雅努萨波利斯
+ヘルタ	黑塔
+オンパロス	翁法罗斯
+カイザー	凯撒
+
+
+
