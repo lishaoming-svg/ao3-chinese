@@ -8,8 +8,8 @@
 // 限制大小写
 
 //ao3词条
-Top=攻
-Bottom=受
+Top=攻方
+Bottom=受方
 
 //第七班直系、宇智波一族
 Haruno Sakura=春野 樱
