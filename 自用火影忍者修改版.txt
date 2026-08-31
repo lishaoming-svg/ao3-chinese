@@ -7,6 +7,10 @@
 词条
 // 限制大小写
 
+//ao3词条
+Top=攻
+Bottom=受
+
 //第七班直系、宇智波一族
 Haruno Sakura=春野 樱
 Sakura=小樱
