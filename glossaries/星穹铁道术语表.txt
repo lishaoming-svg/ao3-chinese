@@ -1,4 +1,4 @@
-版本号:1.0.4
+版本号:1.0.5
 维护者:空中飘着的九十度
 更新时间:2026-09-19
 
@@ -173,6 +173,7 @@ Dang Heng：丹恒，
 Trinnon：缇宁，
 River Styx：冥河，
 deliverer：救世主，
+Kephale above：刻法勒在上
 
 //角色
 
