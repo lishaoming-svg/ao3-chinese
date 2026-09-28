@@ -624,7 +624,6 @@ Uni-Mind：统一心智
 Ego = 伊戈
 Taserface = 电击脸
 Ayesha = 阿耶莎
-// 待确认：Sovereign 另有译名「索维林族」，当前保留「索维林」
 Sovereign：索维林
 High Evolutionary：至高进化
 Cosmo = 科斯莫
@@ -1159,13 +1158,13 @@ archenemy：头号敌人
 nemesis：宿敌
 mercenary：雇佣兵
 assassin：刺客
-// [已停用，易误伤] thief：盗贼
-// [已停用，易误伤] spy：间谍
-// [已停用，易误伤] agent：特工
-// [已停用，易误伤] soldier：士兵
-// [已停用，易误伤] warrior：战士
-// [已停用，易误伤] hero：英雄
-// [已停用，易误伤] villain：反派
+thief：盗贼
+spy：间谍
+agent：特工
+soldier：士兵
+warrior：战士
+hero：英雄
+villain：反派
 mutant：变种人
 inhuman：异人
 asgardian：阿斯加德人
@@ -1189,7 +1188,7 @@ superpower：超能力
 superhuman：超人类
 super strength：超级力量
 super speed：超级速度
-// [已停用，易误伤] flight：飞行
+flight：飞行
 telepathy：心灵感应
 telekinesis：念力
 teleportation：传送
@@ -1204,10 +1203,10 @@ time travel：时间旅行
 multiverse：多元宇宙
 alternate reality：平行现实
 parallel universe：平行宇宙
-// [已停用，易误伤] dimension：维度
-// [已停用，易误伤] timeline：时间线
+dimension：维度
+timeline：时间线
 quantum realm：量子领域
-// [已停用，易误伤] magic：魔法
+magic：魔法
 mystic arts：秘法
 darkforce：黑暗能量
 lightforce：光明能量
@@ -1219,7 +1218,7 @@ reality warping：现实扭曲
 chaos magic：混沌魔法
 dark magic：黑魔法
 white magic：白魔法
-// [已停用，易误伤] spell：咒语
+spell：咒语
 incantation：咒文
 artifact：神器
 relic：遗物
@@ -1227,15 +1226,15 @@ cosmic entity：宇宙实体
 abstract entity：抽象实体
 immortal：不朽的
 invulnerable：无敌的
-// [已停用，易误伤] clone：克隆
+clone：克隆
 android：仿生人
 cyborg：半机械人
-// [已停用，易误伤] robot：机器人
+robot：机器人
 artificial intelligence：人工智能
 sentient：有感知的
 symbiotic：共生的
-// [已停用，易误伤] host：宿主
-// [已停用，易误伤] variant：变体
+host：宿主
+variant：变体
 nexus event：枢纽事件
 sacred timeline：神圣时间线
 
@@ -1281,30 +1280,30 @@ big brother：大哥
 little brother：小弟
 big sister：大姐
 little sister：小妹
-// [已停用，易误伤] transitioner：过渡人
+transitioner：过渡人
 baby boy：小宝贝
 
 // ----- 常用口语/称呼 -----
-// [已停用，易误伤] dude：老兄
-// [已停用，易误伤] buddy：伙计
-// [已停用，易误伤] pal：朋友
-// [已停用，易误伤] kid：小子
-// [已停用，易误伤] guy：家伙
-// [已停用，易误伤] punk：废物
-// [已停用，易误伤] jerk：混蛋
-// [已停用，易误伤] idiot：白痴
-// [已停用，易误伤] genius：天才
-// [已停用，易误伤] legend：传奇
-// [已停用，易误伤] rookie：新手
-// [已停用，易误伤] veteran：老兵
-// [已停用，易误伤] sir：先生
-// [已停用，易误伤] ma'am：女士
-// [已停用，易误伤] captain：队长
-// [已停用，易误伤] commander：指挥官
-// [已停用，易误伤] director：局长
-// [已停用，易误伤] doctor：博士
-// [已停用，易误伤] professor：教授
-// [已停用，易误伤] nerd：书呆子
+dude：老兄
+buddy：伙计
+pal：朋友
+kid：小子
+guy：家伙
+punk：废物
+jerk：混蛋
+idiot：白痴
+genius：天才
+legend：传奇
+rookie：新手
+veteran：老兵
+sir：先生
+ma'am：女士
+captain：队长
+commander：指挥官
+director：局长
+doctor：博士
+professor：教授
+nerd：书呆子
 
 // ----- 人物语录 -----
 "If you're nothing without that suit, then you shouldn't have it"：如果你离开了这套战衣就一无是处的话，那你不应该拥有它
